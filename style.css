@@ -1,0 +1,6 @@
+html,body{height:100%;margin:0;background:linear-gradient(180deg,#A7F3D0,#FDE68A);font-family:Inter,system-ui,Segoe UI,Roboto,Arial}
+#ui{position:fixed;left:12px;top:12px;z-index:999;color:#0f172a}
+#title{font-size:22px;font-weight:800;background:rgba(255,255,255,0.9);padding:8px 12px;border-radius:12px}
+#score{margin-top:8px;background:rgba(255,255,255,0.9);padding:6px 10px;border-radius:10px;font-weight:700}
+#hint{margin-top:6px;background:rgba(255,255,255,0.7);padding:6px 10px;border-radius:10px;font-size:13px}
+canvas{display:block}
